@@ -1,4 +1,4 @@
-![](https://github.com/accodes21/accodes21/blob/main/git.gif) 
+![](https://github.com/chukwumaokere/chukwumaokere/blob/main/git.gif) 
 
 # Hello, Call me Chuck <img src="wave.gif" width="30px">
 
