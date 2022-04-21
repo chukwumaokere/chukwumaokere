@@ -2,16 +2,11 @@
 
 ## Hello 👋
 
-:zap: GitHub Stats
 <img align="left" alt="Sam's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=chukwumaokere&show_icons=true&hide_border=true&theme=tokyonight" />
 
-<br />
-<br />
-
-
-:zap: Most Used Languages
 <img align="left" alt="Sam's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chukwumaokere&layout=compact&theme=tokyonight" />
 
+<br />
 <br />
 
 </p><h2 align="left">Languages and Tools:</h2>
