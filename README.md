@@ -1,6 +1,6 @@
 ![](https://github.com/accodes21/accodes21/blob/main/git.gif) 
 
-# Hello, Call me Chuck 👋 <img src="images/wave.gif" width="30px">
+# Hello, Call me Chuck 👋 <img src="wave.gif" width="30px">
 
 I am a **Senior Software Engineer** who is heavily into **Web and Mobile app development** and **Tech Consulting** with more than six years of professional experience building robust systems and scalable customer-focused products using cutting-edge technologies.
 
