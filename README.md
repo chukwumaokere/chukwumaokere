@@ -40,6 +40,12 @@ I work with many different technologies and languages, but my favorites are **Ja
   <img src="https://cdn.worldvectorlogo.com/logos/docker.svg" title="Docker" alt="Docker Logo" width="62"/> &emsp;
 </p>
 
+
+## Organizations
+I work with a lot of private repo/orgniazations helping maintain code, and educate their communities and help the community adopt code/fix bugs.   
+Some of these aren't visible publicly on my profile, so for transparency I attached them here.  
+![image](https://user-images.githubusercontent.com/16673873/200966103-ac656901-8cc5-48df-a220-e2392947a7cd.png)  
+These are the organizations I've contributed to/am contributing to. Currently helping [@Vercel](https://github.com/vercel) on [Next.js13](https://github.com/vercel/next.js)  
 <!--
 **chukwumaokere/chukwumaokere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
