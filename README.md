@@ -7,14 +7,15 @@ I am a **Senior Software Engineer** who is heavily into **Web and Mobile app dev
 I used updated tools, technologies, and techniques to solve problems. I focus on being a valuable part of any team I am on and believe in team success, growth, and team rising together.
 
 I am also passionate about **Machine Learning, AI**, let's talk about them!
-
+<!--
 <div>
 <img alt="Chuck's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=chukwumaokere&show_icons=true&hide_border=true&theme=tokyonight" />
 
 <img alt="Chuck's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chukwumaokere&layout=compact&theme=tokyonight" />
 </div>
-
 <br/>
+-->
+
 
 ## Tech Stack & Tools
 
