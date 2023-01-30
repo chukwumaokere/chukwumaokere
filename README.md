@@ -48,7 +48,10 @@ Some of these aren't visible publicly on my profile, so for transparency I attac
 ![image](https://user-images.githubusercontent.com/16673873/200966103-ac656901-8cc5-48df-a220-e2392947a7cd.png)  
 These are the organizations I've contributed to/am contributing to. 
 
+## Open Source Contributions
 #### Currently helping [@Vercel](https://github.com/vercel) on [Next.js13](https://github.com/vercel/next.js)  
+#### Also helping [@chronark](https://github.com/chronark) with [EnvShare](https://github.com/chronark/envshare)
+#### And [@master-co](https://github.com/master-co) with [MasterCSS](https://github.com/master-co/css)
 <!--
 **chukwumaokere/chukwumaokere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
