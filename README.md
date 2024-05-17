@@ -4,7 +4,7 @@
 
 I am a **Senior Software Engineer** who is heavily into **Web and Mobile app development** and **Tech Consulting** with more than 7 years of professional experience building robust systems and scalable customer-focused products using cutting-edge technologies.
 
-I used updated tools, technologies, and techniques to solve problems. I focus on being a valuable part of any team I am on and believe in team success, growth, and team rising together.
+I used updated tools, technologies, and techniques to solve problems. I focus on being a valuable part of any team I am on and believe in team success, growth, and rising together.
 
 I am also passionate about **Machine Learning, AI**, let's talk about them!
 <!--
