@@ -49,7 +49,7 @@ Some of these aren't visible publicly on my profile, so for transparency I attac
 These are the organizations I've contributed to/am contributing to. 
 
 ## Open Source Contributions
-#### Currently helping [@Vercel](https://github.com/vercel) on [Next.js13](https://github.com/vercel/next.js)  
+#### Currently helping [@Vercel](https://github.com/vercel) on [Next.js 15](https://github.com/vercel/next.js)  
 #### Also helping [@chronark](https://github.com/chronark) with [EnvShare](https://github.com/chronark/envshare)
 #### And [@master-co](https://github.com/master-co) with [MasterCSS](https://github.com/master-co/css)
 #### And [@iway1](https://github.com/iway1) with [react-ts-form](https://github.com/iway1/react-ts-form)
