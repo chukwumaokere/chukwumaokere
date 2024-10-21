@@ -19,7 +19,7 @@ I am also passionate about **Machine Learning, AI**, let's talk about them!
 
 ## Tech Stack & Tools
 
-I work with many different technologies and languages, but my favorites are **JavaScript/TypeScript**, **React.js**, **Vue**, **Angular**, **Flutter**, **Next.js**, **Node.js**, and **Express.js**.
+I work with many different technologies and languages, but my favorites are **JavaScript/TypeScript**, **React**, **Vue**, **React Native**, **Angular**, **Next.js**, **Node.js**, and **Express.js**.
 
 <p align="center">
   <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" title="JavaScript" alt="JavaScript Logo" width="57" /> &emsp;
