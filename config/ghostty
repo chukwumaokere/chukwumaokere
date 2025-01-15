@@ -1,0 +1,13 @@
+cursor-style = block
+background = 
+background-opacity = 0.7
+background-blur-radius = 10
+quick-terminal-position = center
+window-height = 30
+window-width = 128
+window-save-state = always
+gtk-tabs-location = bottom
+cursor-color =
+cursor-style = bar
+shell-integration-features = no-cursor
+keybind = global:ctrl+grave_accent=toggle_quick_terminal
